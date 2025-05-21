@@ -1,0 +1,5 @@
+apiVersion: v2
+name: metrics-app
+description: Helm chart for the metrics app exposing /counter
+version: 0.1.0
+appVersion: "1.4"
